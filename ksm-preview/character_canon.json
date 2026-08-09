@@ -1,0 +1,13 @@
+{
+  "brand": "Kid Smart Money",
+  "world": "Coral Cove",
+  "cast": "Underwater Money Friends",
+  "version": "2026-08-09-canon-1",
+  "characters": [
+    {"id":"finn","name":"Finn","pillar":"Earn & Build","color":"blue","question":"How do people earn money?","catchphrase":"Let’s figure it out!","asset":"finn_canonical_sheet.png"},
+    {"id":"penny","name":"Penny","species":"pufferfish","pillar":"Save & Choose","color":"pink/coral","question":"How do I save for something I want?","catchphrase":"Save it up, puff it up!","asset":"penny_canonical_sheet.png"},
+    {"id":"count","name":"Count","species":"crab","pillar":"Plan & Spend","color":"orange/gold","question":"How do I make my money last?","catchphrase":"Show me the numbers.","asset":"count_canonical_sheet.png"},
+    {"id":"pearl","name":"Pearl","species":"octopus","pillar":"Grow & Wait","color":"purple","question":"What can happen when money has time?","catchphrase":"Let’s wrap our minds around this.","asset":"pearl_canonical_sheet.png"},
+    {"id":"shelly","name":"Shelly","species":"seahorse","pillar":"Share & Protect","color":"teal/green","question":"How can money help me and other people?","catchphrase":"Sharing makes the ocean sparkle!","asset":"shelly_canonical_sheet.png"}
+  ]
+}
